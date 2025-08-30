@@ -74,7 +74,8 @@ The **E-Waste Paper Trunk App** is an Android application developed to promote a
 ---
 ## 👨‍💻 Author
 
-#Aditya Dhakane
+## Aditya Dhakane
 📧 Email: dhakaneaditya502@gmail.com 
+
 🎓 VIT Student | Mobile App Development Enthusiast
 ---
